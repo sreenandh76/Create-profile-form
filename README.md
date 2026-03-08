@@ -6,9 +6,9 @@ A responsive user registration form built using HTML, CSS, and JavaScript that p
 
 ## Live Demo
 
-Here’s the live link to view the project:
+Here’s the live link to view the project: 
 
-
+https://sreenandh76.github.io/Create-profile-form/
 
 ## Features
 
